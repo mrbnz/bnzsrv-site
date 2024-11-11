@@ -20,6 +20,7 @@ A secure web administration panel built with PHP, featuring user authentication 
 - **Security**: PDO, Password Hashing, Session Management
 - **Additional**: Custom error logging, Responsive design
 
+```
 ## Project Structure
 ├── api/
 │ ├── login.php
@@ -38,6 +39,7 @@ A secure web administration panel built with PHP, featuring user authentication 
 │ └── test_db.php
 └── logs/
 └── error.log
+```
 
 ## Security Features
 
